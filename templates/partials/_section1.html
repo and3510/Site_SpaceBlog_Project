@@ -1,4 +1,32 @@
 {% load static %}
+<style>
+    .menu-lateral {
+        width: 200px;
+        padding: 15px;
+    }
+
+    .menu-lateral__navegacao {
+        display: inline;
+    }
+
+    .menu-lateral__navegacao a {
+        padding: 10px 10px;
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: bold;
+        transition: 0.2s;
+        border-radius: 5px;
+    }
+
+    .menu-lateral__navegacao a img {
+        margin-right: 10px;
+    }
+
+    .menu-lateral__navegacao a:hover {
+        background-color: #797878;
+    }
+</style>
+
 <section class="menu-lateral">
     <nav class="menu-lateral__navegacao">
         <a href="{% url 'index' %}"><img src="{% static '/assets/ícones/1x/Home - ativo.png' %}"> Home</a>

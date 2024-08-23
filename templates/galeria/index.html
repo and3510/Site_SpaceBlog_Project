@@ -1,6 +1,20 @@
 {% extends 'shared/base.html' %}
 {% load static %}
 {% block content %}
+
+    <style>
+
+    .banner {
+        margin-left: 300px;
+        margin-top: -370px;
+    }
+
+    .tags {
+        display: flex;
+        justify-content: center;
+    }
+
+    </style>
     <div class="pagina-inicial">
         
         <main class="principal">
@@ -9,7 +23,7 @@
                 <section class="banner">
                     <img class="banner__imagem" src="{% static '/assets/imagens/Banner(2).png' %}" alt="banner Alura Space">
                     <h1 class="banner__titulo"> A galeria mais completa de fotos do espaço!</h1>
-                </section>
+                </section> 
                 <section class="tags">
                     <p class="tags__titulo">Busque por tags:</p>
                     <ul class="tags__lista">
