@@ -1,18 +1,18 @@
 {% extends 'shared/base.html' %}
 {% load static %}
 {% block content %}
-            <section class="galeria" style="margin-left: 5em">
-                <form action="{% url 'login' %}" method="POST">
+            <section class="galeria" style="margin-left: 30em; margin-bottom: 1%;">
+                <form action="{% url 'login' %}" method="POST" style="margin-top: -25%;">
                     {% csrf_token %}
-                    <div class="row">
+                    <div class="row" >
                         {% for field in form.visible_fields %}
-                        <div class="col-12 col-lg-12" style="margin-bottom: 10px;">
+                        <div class="col-12 col-lg-12" >
                             <label for="{{ field.id_for_label }}" style="color:#D9D9D9";>{{field.label}}</label>
                             {{ field }}
                         </div>
                         {% endfor %}
                     </div>
-                        <button class="btn btn-success col-12" style="padding: top 5px;" type="submit"> Logar </button>
+                        <button class="btn btn-success col-12" style="padding: top 5px; margin-top: 5%;" type="submit"> Logar </button>
                     <div>
                 </form>
             </section>

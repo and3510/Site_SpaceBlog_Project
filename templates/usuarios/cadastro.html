@@ -1,8 +1,8 @@
 {% extends 'shared/base.html' %}
 {% load static %}
 {% block content %}
-            <section class="galeria" style="margin-left: 5em">
-                <form action="{% url 'cadastro' %}" method="POST">
+            <section class="galeria"  style="margin-left: 18em; margin-bottom: 1%;">
+                <form action="{% url 'cadastro' %}" method="POST" style="margin-top: -25%;">
                     {% csrf_token %}
                     <div class="row">
                         {% for field in form.visible_fields %}
