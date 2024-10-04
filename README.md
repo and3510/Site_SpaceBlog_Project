@@ -176,11 +176,3 @@ Preencha as informações necessárias e você poderá acessar o Django Admin em
 Este projeto de galeria de imagens do espaço permitiu não apenas explorar a vastidão e a beleza do universo, mas também aprimorar habilidades técnicas no desenvolvimento web. Através da integração de imagens astronômicas, foi possível criar uma experiência visualmente envolvente e educativa, destacando a importância do espaço e suas maravilhas. Embora a interface não seja tão atraente, este projeto foi essencial para aprimorar minhas habilidades. Meu principal foco foi estudar e entender as vantagens do Django, mostrando como a tecnologia pode ser usada para aproximar o cosmos de todos e despertar fascínio pela astronomia.
 
 
-
-
-## Propriedades:
-- Framework: Django
-- Login
-- Cadastro
-- Banco de Dados: SQlite
-- Tema: Espaço
