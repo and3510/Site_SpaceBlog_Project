@@ -63,34 +63,16 @@ O site "Alura Space" é uma galeria de imagens espaciais com um design moderno e
 
 <div align="center">
 
-<img src="./images/image.png" alt="Descrição da Imagem" width="650">
-
-</div>
-
-<div align="center">
-
-<img src="./images/image1.png" alt="Descrição da Imagem" width="650">
-
-</div>
-
-<div align="center">
-
-<img src="./images/image2.png" alt="Descrição da Imagem" width="650">
-
-</div>
-
-
-<div align="center">
-
-<img src="./images/image3.png" alt="Descrição da Imagem" width="650">
-
-</div>
 
 
 
-<div align="center">
-
-<img src="./images/image4.png" alt="Descrição da Imagem" width="650">
+| Imagem | Descrição |
+|--------|-----------|
+| <div align="center"><img src="./images/image.png" alt="Descrição da Imagem" width="400"></div> | Descrição da imagem 1 |
+| <div align="center"><img src="./images/image1.png" alt="Descrição da Imagem" width="300"></div> | Descrição da imagem 2 |
+| <div align="center"><img src="./images/image2.png" alt="Descrição da Imagem" width="300"></div> | Descrição da imagem 3 |
+| <div align="center"><img src="./images/image3.png" alt="Descrição da Imagem" width="300"></div> | Descrição da imagem 4 |
+| <div align="center"><img src="./images/image4.png" alt="Descrição da Imagem" width="300"></div> | Descrição da imagem 5 |
 
 </div>
 
