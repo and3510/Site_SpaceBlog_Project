@@ -69,10 +69,11 @@ O site "Alura Space" é uma galeria de imagens espaciais com um design moderno e
 | Imagem | Descrição |
 |--------|-----------|
 | <div align="center"><img src="./images/image.png" alt="Descrição da Imagem" width="400"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">**Menu Principal**</p> |
-| <div style="text-align:center;"><img src="./images/image1.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">Login</p> |
-| <div style="text-align:center;"><img src="./images/image2.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">Cadastro</p> |
-| <div style="text-align:center;"><img src="./images/image3.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">Criar Imagem</p> |
-| <div style="text-align:center;"><img src="./images/image4.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">Editar/Deletar</p> |
+| <div style="text-align:center;"><img src="./images/image1.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">**Login**</p> |
+| <div style="text-align:center;"><img src="./images/image2.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">**Cadastro**</p> |
+| <div style="text-align:center;"><img src="./images/image3.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">**Criar Imagem**</p> |
+| <div style="text-align:center;"><img src="./images/image4.png" alt="Descrição da Imagem" width="600"></div> | <p style="font-size:40px; font-weight: bolder; text-align:center;">**Editar/Deletar**</p> |
+
 </div>
 
 
